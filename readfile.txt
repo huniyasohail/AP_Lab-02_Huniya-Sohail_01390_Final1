@@ -1,0 +1,5 @@
+Let x = 10
+Let y = 1
+y = x + 1 + 4 + x   
+y = 4 + 3 
+print y 
